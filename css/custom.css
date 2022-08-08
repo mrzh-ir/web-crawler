@@ -1,0 +1,29 @@
+#gsc_prf_pup-img {
+    width: 12rem;
+    height: 13rem;
+}
+
+.contact-info > div {
+    padding: 1rem;
+    font-size: larger;
+}
+.webpics {
+    height: auto;
+    max-width: 5.25rem;
+}
+
+.form-floating label {
+    font-size: 1rem;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+    background-color: unset;
+    transition: transform .2s;
+}
+.portfolio .portfolio-item .portfolio-item-caption:hover {
+    border: 2px dashed rgba(26, 188, 156, 0.9);
+}
+
+#skills > div > div > h4 {
+    padding: 1rem;
+}
